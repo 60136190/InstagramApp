@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InstagramApp</string>
+    <string name="action_home"></string>
+    <string name="action_search"></string>
+    <string name="action_video"></string>
+    <string name="action_heart"></string>
+    <string name="action_profile"></string>
+    <string name="email_ad">Tìm kiếm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="all_fragment">Tất cả</string>
+    <string name="meet_fragment">Phòng họp mặt</string>
+    <string name="wait_message_fragment">Tin nhắn chờ</string>
+</resources>
